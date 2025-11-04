@@ -4,7 +4,7 @@ Chapter 9 Case Study (pgs. 242 - 245)
 08/15/2025
 Developer: Stephanie DeMola
 
-***NOTE: the Python module breezypythongui.py MUST be in the sma edirectory as this file for the app to run properly!
+***NOTE: the Python module breezypythongui.py MUST be in the same edirectory as this file for the app to run properly!
 
 GUI-based version of the number guessing game app from Chapter 3 _ ch3>numberGuess.py
 """
@@ -84,5 +84,6 @@ def main():
 	# ***THIS NEVER CHANGES FROM CODE TO CODE***
 if __name__ == '__main__':
 	main()
+
 
 
